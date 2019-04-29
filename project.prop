@@ -17,6 +17,7 @@
         "mock",
         "pylint",
         "sphinx",
+        "sphinxcontrib-apidoc",
         "tox",
         "radon",
         "docker"
